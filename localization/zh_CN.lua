@@ -2724,7 +2724,7 @@ return {
 				}
 			},
 			c_cry_Lapio = {
-				name = "Lapio",
+				name = "Pata",
 				text = {
 					"({V:1}等级.#4#{})({V:2}等级.#5#{})({V:3}等级.#6#{})",
 					"升级",
@@ -2735,7 +2735,7 @@ return {
 				}
 			},
 			c_cry_Sydan = {
-				name = "Sydan",
+				name = "Hertta",
 				text = {
 					"({V:1}等级.#4#{})({V:2}等级.#5#{})({V:3}等级.#6#{})",
 					"升级",
